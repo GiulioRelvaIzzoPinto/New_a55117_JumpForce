@@ -451,7 +451,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1916667199}
   - component: {fileID: 1916667200}
-  - component: {fileID: 1916667201}
   m_Layer: 0
   m_Name: SpawnManager
   m_TagString: Untagged
@@ -487,18 +486,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   obstaclePrefab: {fileID: 1230232939591054812, guid: 09d47b6f4506cc541ae013ab34bdf894, type: 3}
---- !u!114 &1916667201
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1916667198}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e4b4f04935d405408788b04ce632e96, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &2014335011
 GameObject:
   m_ObjectHideFlags: 0
